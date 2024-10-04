@@ -1,6 +1,6 @@
 # Alaric Forestfright
 
-Alaric Forestfright scheint eine Figur geradewegs aus den Legenden zu sein. Er verströmt die selbstsichere Präsenz eines geborenen Anführers, dessen Einfluss so tief wie die Wurzeln der ältesten Bäume im Brocéliande reicht. Seine Erscheinung ist beeindruckend, doch er trägt sie ohne Prahlerei; sein Auftreten ist mühelos und seine Blicke durchdringend, als könnten sie die Schatten selbst zum Weichen bringen.
+Alaric Forestfright scheint eine Figur geradewegs aus den Legenden zu sein. Er verströmt die selbstsichere Präsenz eines geborenen Anführers, so tief wie die Wurzeln der ältesten Bäume im Brocéliande. Seine Erscheinung ist beeindruckend, doch er trägt sie ohne Prahlerei; sein Auftreten ist mühelos und seine Blicke wach und durchdringend.
 
 ## GM Notes (Only visible to GM)
 
@@ -8,7 +8,7 @@ Als charismatischer Anführer hat Alaric das Potenzial, eine Schlüsselfigur im 
 
 ### Hintergrund
 
-Geboren am Rande der Gesellschaft, vielleicht als Sohn eines gefallenen Adeligen oder eines Händlers, dessen Geschick sich gegen ihn gewandt hat, wuchs Alaric mit einem tiefen Verständnis für die dunkleren Seiten der Welt auf. Er erlernte die Kunst des Überlebens in den schroffen Landschaften, die ihn umgaben, und sein Pfad führte ihn durch die düstersten Winkel der menschlichen Natur.
+Geboren am Rande der Gesellschaft, als Sohn eines gefallenen Adeligen oder eines Händlers, dessen Geschick sich gegen ihn gewandt hat, wuchs Alaric mit einem tiefen Verständnis für die dunkleren Seiten der Welt auf. Er erlernte die Kunst des Überlebens in den schroffen Landschaften, die ihn umgaben, und sein Pfad führte ihn durch die düstersten Winkel der menschlichen Natur.
 
 ### Motivation und Ziele
 
