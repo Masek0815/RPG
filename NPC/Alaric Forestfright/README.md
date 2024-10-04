@@ -23,4 +23,4 @@ Jedoch birgt Alarics Vergangenheit ein düsteres Geheimnis, das ihn verwundbar m
 ## Aussehen und Token
 
 ![Porträt Alaric Forestfright](https://github.com/Masek0815/RPG/edit/main/NPC/Alaric%20Forestfright/Alaric%20Forestfright.png)
-![Token Alaric Forestfright]([https://github.com/Masek0815/RPG/edit/main/NPC/Alaric%20Forestfright/Alaric%20Forestfright%20Token.png](https://github.com/Masek0815/RPG/blob/main/NPC/Alaric%20Forestfright/Alaric%20Forestfright%20Token.png?raw=true))
+![Token Alaric Forestfright](https://github.com/Masek0815/RPG/blob/main/NPC/Alaric%20Forestfright/Alaric%20Forestfright%20Token.png?raw=true)
