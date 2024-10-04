@@ -22,5 +22,5 @@ Jedoch birgt Alarics Vergangenheit ein düsteres Geheimnis, das ihn verwundbar m
 
 ## Aussehen und Token
 
-[image](Alaric Forestfright.png)
-[image](Alaric Forestfright Token.png)
+![image](Alaric Forestfright.png)
+![image](Alaric Forestfright Token.png)
