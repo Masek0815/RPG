@@ -1,4 +1,6 @@
-RPG
+[Deutsche Version](README.md)
+
+# RPG
 
 RPG material by Martin Seeger
 
