@@ -20,4 +20,7 @@ Alaric zeigt nach außen eine Fassade der Stärke und Unbezwingbarkeit, doch im 
 
 Jedoch birgt Alarics Vergangenheit ein düsteres Geheimnis, das ihn verwundbar macht – vielleicht ein Pakt, der schiefgelaufen ist, oder eine Schuld, die er noch nicht beglichen hat. Dieses Geheimnis könnte ihn in den Augen eines gerissenen Gegners wie Gaius zum perfekten Ziel für Erpressung machen.
 
+## Aussehen und Token
 
+[image](Alaric Forestfright.png)
+[image](Alaric Forestfright Token.png)
